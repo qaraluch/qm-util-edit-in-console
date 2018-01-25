@@ -14,7 +14,7 @@ export default function editInConsole(object, options = {}) {
   };
 
   const initState = {
-    moduleName: "qm-editInVim",
+    moduleName: "qm-util-edit-in-console",
     objToEdit: Object.assign(Object.create(null), object)
   };
 
