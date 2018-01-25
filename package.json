@@ -2,7 +2,7 @@
   "name": "qm-util-edit-in-console",
   "homepage": "https://github.com/qaraluch/qm-util-edit-in-console",
   "version": "0.1.0",
-  "description": "Edit data in console.",
+  "description": "Edit data in console using terminal editor.",
   "license": "MIT",
   "author": {
     "name": "qaraluch",
